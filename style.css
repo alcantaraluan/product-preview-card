@@ -31,6 +31,12 @@ body {
     align-items: center;
 }
 
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .container {
     width: 600px;
     height: 450px;
