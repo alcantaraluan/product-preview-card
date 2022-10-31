@@ -23,7 +23,7 @@ body {
     max-width: 1440px;
     background-color: var(--color-cream);
     font-family: var(--default-font);
-    font-size: 14px;
+    font-size: 0.875rem;
     color: var(--color-grayish-blue);
     height: 100vh;
     display: flex;
@@ -31,25 +31,21 @@ body {
     align-items: center;
 }
 
-main {
+.container {
     width: 600px;
     height: 450px;
     display: flex;
 }
 
-.image {
+picture {
     width: 50%;
     height: 100%;
 }
 
-.image img {
+picture img {
     width: 100%;
     height: 100%;
     border-radius: 10px 0px 0px 10px;
-}
-
-.image img.mobile {
-    display: none;
 }
 
 .content {
@@ -61,20 +57,23 @@ main {
 
 .content .category {
     font-family: var(--default-font);
+    font-size: 0.75rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    margin-bottom: 32px;
+    margin-bottom: 25px;
 }
 
 .content h1 {
     font-family: var(--title-font);
+    font-size: 2rem;
     color: var(--color-very-dark-blue);
     line-height: 1em;
-    margin-bottom: 32px;
+    margin-bottom: 25px;
 }
 
-.content .text {
-    margin-bottom: 32px;
+.content .description {
+    margin-bottom: 25px;
+    line-height: 1.5em;
 }
 
 .content .price {
@@ -87,13 +86,12 @@ main {
 .content .price p:first-child {
     font-family: var(--title-font);
     color: var(--color-dark-cyan);
-    font-size: 2em;
+    font-size: 2rem;
     font-weight: 700;
 }
 
 .content .price span {
-    font-size: 13px;
-    text-decoration: line-through;
+    font-size: 1rem;
 }
 
 .content button {
@@ -118,21 +116,15 @@ main {
 }
 
 @media (max-width: 675px) {
-    .image img.desktop {
-        display: none;
-    }
 
-    .image img.mobile {
+    picture img {
         display: block;
+        width: 100%;
+        height: 240px;
         border-radius: 10px 10px 0px 0px;
     }
 
-    .image {
-        width: 100%;
-        height: 240px;
-    }
-
-    main {
+    .container {
         display: block;
         width: 343px;
         height: 611px;
