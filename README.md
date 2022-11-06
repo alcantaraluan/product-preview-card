@@ -1,8 +1,8 @@
-# Frontend Mentor - NFT preview card component solution
+# Frontend Mentor - Product preview card component solution
  
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-card-built-with-html-and-css-TBmAWN3tnZ).
  
-## NFT Preview Card Component
+## Product Preview Card Component
  
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
@@ -25,8 +25,8 @@ Users should be able to:
  
 ### Links
  
-- Solution URL: (https://www.frontendmentor.io/solutions/nft-preview-card-component-using-html5-and-css3-flexbox-nL6Wm98OI7)
-- Live Site URL: (https://alcantaraluan.github.io/nft-preview-card/)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-card-built-with-html-and-css-TBmAWN3tnZ)
+- Live Site URL: (https://alcantaraluan.github.io/product-preview-card/)
  
 ### Built with
  
@@ -39,14 +39,14 @@ Users should be able to:
 - LinkedIn - [Luan](https://www.linkedin.com/in/luanpaulo/)
 - Frontend Mentor - [@alcantaraluan](https://www.frontendmentor.io/profile/alcantaraluan)
  
- 
-# Frontend Mentor - NFT preview card component
+:brazil:
+# Frontend Mentor - Product preview card component solution
  
 Esta é uma solução que desenvolvi para um desafio proposto pelo site Frontend Mentor.
  
-O desafio trata-se do seguinte projeto: [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
+O desafio trata-se do seguinte projeto: [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-card-built-with-html-and-css-TBmAWN3tnZ). 
  
-## NFT Preview Card Component
+## Product Preview Card Component
  
 - [O desafio](#the-challenge)
 - [Capturas de tela](#screenshot)
@@ -69,8 +69,8 @@ Os usuários devem ser capazes de:
  
 ### Links
  
-- Solução: (https://www.frontendmentor.io/solutions/nft-preview-card-component-using-html5-and-css3-flexbox-nL6Wm98OI7)
-- Site com o projeto hospedado: (https://alcantaraluan.github.io/nft-preview-card/)
+- Solução: (https://www.frontendmentor.io/solutions/product-card-built-with-html-and-css-TBmAWN3tnZ)
+- Site com o projeto hospedado: (https://alcantaraluan.github.io/product-preview-card/)
  
 ### Construído com
  
