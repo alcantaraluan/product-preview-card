@@ -36,7 +36,7 @@ Users should be able to:
  
 ## Author
  
-- LinkedIn - [Luan](https://www.linkedin.com/in/luanpaulo/)
+- LinkedIn - [Luan Alcantara](https://www.linkedin.com/in/luanpaulo/)
 - Frontend Mentor - [@alcantaraluan](https://www.frontendmentor.io/profile/alcantaraluan)
  
 :brazil:
@@ -63,9 +63,9 @@ Os usuários devem ser capazes de:
  
 ### Capturas de tela
  
-![](./images/nft-preview-card-screenshot-desktop.jpg)
-![](./images/nft-preview-card-desktop.gif)
-![](./images/nft-preview-card-mobile.gif)
+![](./screenshots/product-preview-front-end-mentor-desktop.jpg)
+![](./screenshots/product-preview-front-end-mentor.gif)
+![](./screenshots/product-preview-front-end-mentor-mobile.gif)
  
 ### Links
  
@@ -80,7 +80,7 @@ Os usuários devem ser capazes de:
  
 ### Autor
  
-- LinkedIn - [Luan](https://www.linkedin.com/in/luanpaulo/)
+- LinkedIn - [Luan Alcantara](https://www.linkedin.com/in/luanpaulo/)
 - Frontend Mentor - [@alcantaraluan](https://www.frontendmentor.io/profile/alcantaraluan)
  
  
